@@ -12,7 +12,7 @@ This is a chrome extension that reloads pages through UT Austin's proxy so that 
 1. Go to chrome://extensions/ in  your Google Chrome browser.
 2. Toggle "Developer Mode" so that it is on. 
 3. Click "Load Unpacked"
-
+4. Select the entire Texas Reader directory. 
 Congratulations, now you can use the Texas Reader extension! 
 
 ## Usage
